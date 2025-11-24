@@ -1,0 +1,21 @@
+[
+  {
+    "timestamp": "2025-11-24T12:00:59.737531",
+    "mood": "okay",
+    "energy": "a bit tired",
+    "goals": [
+      "finish coding assignment"
+    ],
+    "summary": "Today's check-in -> Mood: okay, Energy: a bit tired, Goals: ['finish coding assignment']"
+  },
+  {
+    "timestamp": "2025-11-24T12:04:51.116294",
+    "mood": "a bit anxious",
+    "energy": "medium",
+    "goals": [
+      "complete assignment",
+      "prepare for exams"
+    ],
+    "summary": "Today's check-in -> Mood: a bit anxious, Energy: medium, Goals: ['complete assignment', 'prepare for exams']"
+  }
+]
